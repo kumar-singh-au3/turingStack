@@ -1,0 +1,38 @@
+.container-mainBox{
+    background-color: white;
+    height: 410px;
+    margin: 15px 0;
+    padding: 20px 45px;
+    border-radius: 35px;
+    text-align: left;
+    overflow: hidden;
+}
+
+.gray{
+    color: gray;
+}
+
+table{
+    margin: 20px 0;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+
+tr td:first-child{
+    border-right: 5px solid greenyellow;
+    padding: 5px;
+    padding-right: 20px;
+}
+
+td{
+    padding: 0 25px;
+}
+
+.highlight{
+    background-color: yellow;
+    color: tomato;
+}
+.gap{
+    height: 20px;
+}
