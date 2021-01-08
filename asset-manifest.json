@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/turingStack/static/css/main.7177d5c5.chunk.css",
+    "main.js": "/turingStack/static/js/main.a6797917.chunk.js",
+    "main.js.map": "/turingStack/static/js/main.a6797917.chunk.js.map",
+    "runtime-main.js": "/turingStack/static/js/runtime-main.edb84921.js",
+    "runtime-main.js.map": "/turingStack/static/js/runtime-main.edb84921.js.map",
+    "static/js/2.f5d536df.chunk.js": "/turingStack/static/js/2.f5d536df.chunk.js",
+    "static/js/2.f5d536df.chunk.js.map": "/turingStack/static/js/2.f5d536df.chunk.js.map",
+    "static/js/3.320a52b9.chunk.js": "/turingStack/static/js/3.320a52b9.chunk.js",
+    "static/js/3.320a52b9.chunk.js.map": "/turingStack/static/js/3.320a52b9.chunk.js.map",
+    "index.html": "/turingStack/index.html",
+    "static/css/main.7177d5c5.chunk.css.map": "/turingStack/static/css/main.7177d5c5.chunk.css.map",
+    "static/js/2.f5d536df.chunk.js.LICENSE.txt": "/turingStack/static/js/2.f5d536df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edb84921.js",
+    "static/js/2.f5d536df.chunk.js",
+    "static/css/main.7177d5c5.chunk.css",
+    "static/js/main.a6797917.chunk.js"
+  ]
+}
